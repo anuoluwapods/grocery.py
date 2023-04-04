@@ -1,7 +1,9 @@
-streamlit==1.20.0
-pandas==0.25.1
-numpy==1.24.2
-deta
-streamlit-folium
-pip==23.0.1
-datetime
+streamlit==1.5.0
+pandas==1.2.3
+numpy==1.20.1
+deta==1.12.7
+streamlit-auth==0.74.0
+google-auth==2.0.2
+google-auth-oauthlib==0.4.5
+google-auth-httplib2==0.4.4
+plotly
